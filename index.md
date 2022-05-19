@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Nayan-Github/my-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nayan-Github/my-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div align="center">
+Hi    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><br/>
+𝑰 𝒂𝒎 𝒂 𝒕𝒆𝒄𝒉 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 & 𝒂𝒏 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒂𝒅𝒗𝒐𝒄𝒂𝒕𝒆. 𝑰 𝒂𝒎 𝒂𝒍𝒘𝒂𝒚𝒔 𝒐𝒑𝒆𝒏 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒏𝒈 𝒐𝒏 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒂𝒏𝒅 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒗𝒆/𝒅𝒊𝒔𝒓𝒖𝒑𝒕𝒊𝒗𝒆 𝒊𝒅𝒆𝒂𝒔. 𝑭𝒊𝒏𝒅 𝒐𝒖𝒕 𝒎𝒐𝒓𝒆 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆 & 𝒇𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒄𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 <a target="_blank" href="https://www.nayan.dev"> 𝒎𝒆.</a>
+</div>
